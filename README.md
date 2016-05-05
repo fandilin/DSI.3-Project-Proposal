@@ -13,7 +13,7 @@ The purpose of standardized testing is to provide a standard metric by which to 
 4.Community Background
 
 ####Effects: the short term and long term effects of the results of standardized testing
-1.College Graduation Rate
+1.High School/College Graduation Rate
 
 2.Income
 
