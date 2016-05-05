@@ -25,5 +25,6 @@ The purpose of standardized testing is to provide a standard metric by which to 
 
 6.Longevity
 
+
 ####Analysis Plan:
 I will use data on standardized tests that are taken in high school, such as the SAT or a high school exit exam as well as data that compares such results to one or a few of the "Effects" listed above. I plan to measure the strength and significance of possible correlations between testing results and the "Effects" and then given that there are significant correlations, determine how some of the "Factors" can affect testing results. If possible, I will group testing results by categories of one or more "Factors" and find correlations between those groups and the "Effects. The results of my analysis should allow people to make better decisions with respect to education, communities, and laws regarding education and community.
